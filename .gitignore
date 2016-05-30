@@ -16,3 +16,4 @@ _temp
 !wallaby.js
 
 .idea
+npm-debug.log
