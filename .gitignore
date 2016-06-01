@@ -17,3 +17,4 @@ _temp
 
 .idea
 npm-debug.log
+!webpack.config.js
